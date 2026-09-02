@@ -2,7 +2,7 @@
 
 ### DATE: 02.09.2026
 
-### REGISTER NUMBER : 212224240015
+### REGISTER NUMBER : 212225230083
 
 ### Aim: To write the prompt for the following prompt types and compare that with different AI tools and evaluate that using any one evaluation method (Ex. Rubrics). Zero-shot Prompting.• Few-shot Prompting - Chain of Thought - Persona Pattern - Reverse Prompting - Graph Prompting - Active Prompting
 
